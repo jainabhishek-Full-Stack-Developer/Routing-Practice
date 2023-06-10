@@ -1,0 +1,23 @@
+.containerAbout {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+}
+.image {
+  width: 150px;
+  height: 150px;
+}
+
+.containerAbout h1 {
+  color: #6d396b;
+  font-family: 'Roboto';
+  font-size: 48px;
+}
+.containerAbout p {
+  color: #555555;
+  font-family: 'Roboto';
+  font-size: 24px;
+  text-align: center;
+}
